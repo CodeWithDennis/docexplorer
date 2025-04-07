@@ -7,18 +7,21 @@
     <title>Laravel Explorer</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @livewireStyles
+    <link rel="stylesheet" href="{{ asset('css/retro.css') }}">
 </head>
 
 <body class="antialiased">
-    <div class="min-h-screen bg-gray-100">
-        <main class="container mx-auto py-8 px-4">
-            <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900">
-                    <h1 class="text-2xl font-bold mb-4">Welcome to Laravel Explorer</h1>
-                    <livewire:documentation-links.random />
-                </div>
+    <div class="container">
+        <div class="float-animation">
+            <h1 class="retro-title">LARAVEL</h1>
+            <h2 class="retro-subtitle">DOCEXPLORER</h2>
+            <p class="retro-text">Level up your Laravel knowledge with random documentation discoveries!</p>
+        </div>
+        <div class="game-card pixel-corners">
+            <div class="p-6">
+                <livewire:documentation-links.random />
             </div>
-        </main>
+        </div>
     </div>
     @livewireScripts
 </body>
