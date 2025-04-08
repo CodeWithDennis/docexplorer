@@ -12,15 +12,22 @@
                     <p class="text-[1.25rem] text-[#ff2d20] font-bold">{{ $highScore }}</p>
                 </div>
             </div>
-            <button wire:click="getRandomLink"
-                class="inline-block w-full py-[16px] px-4 bg-gradient-to-r from-[#ff2d20] to-[#ff2d20] text-white font-press-start text-[0.65rem] uppercase tracking-[1px] font-bold text-center shadow-[0_4px_6px_rgba(255,45,32,0.2)] transition-all duration-300 ease-in-out cursor-pointer select-none [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))]">
-                Discover
-            </button>
+            <div class="flex w-full gap-2 mb-4">
+                <button wire:click="getRandomLink"
+                    class="inline-block flex-1 py-[16px] px-4 bg-gradient-to-r from-[#ff2d20] to-[#ff2d20] text-white font-press-start text-[0.65rem] uppercase tracking-[1px] font-bold text-center shadow-[0_4px_6px_rgba(255,45,32,0.2)] transition-all duration-300 ease-in-out cursor-pointer select-none [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))]">
+                    Discover
+                </button>
+                <button wire:click="resetHighScore"
+                    class="inline-block py-[16px] px-2 bg-transparent border border-[#ff2d20] text-[#ff2d20] font-press-start text-[0.55rem] uppercase tracking-[1px] font-bold text-center transition-all duration-300 ease-in-out cursor-pointer select-none hover:bg-[#ff2d20] hover:text-white [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))]">
+                    Reset
+                </button>
+            </div>
         </div>
     </div>
 
     @if ($link)
-        <h2 class="text-[0.65rem] mb-[28px] text-gray-400 leading-[1.8] w-full text-center">DISCOVERED DOCUMENTATION
+        <h2 class="text-[0.65rem] mb-[28px] text-gray-400 leading-[1.8] w-full text-center">
+            DISCOVERED DOCUMENTATION
         </h2>
         <div
             class="transition-all duration-300 border-4 border-[#ff2d20] bg-[#16213e] p-7 mb-9 flex flex-col items-center justify-center [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))]">
@@ -37,7 +44,7 @@
                 </div>
                 <p class="text-[0.75rem] mb-3 text-gray-400">{{ $link->category }}</p>
                 <a href="{{ $link->url }}" target="_blank"
-                    class="inline-block py-2 px-4 bg-transparent border-2 border-[#ff2d20] font-press-start text-[0.75rem] uppercase tracking-[1px] font-bold text-center transition-all duration-300 ease-in-out cursor-pointer select-none hover:bg-[#ff2d20] hover:text-white [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))] group">
+                    class="inline-block py-2 px-4 bg-transparent border-2 border-[#ff2d20] text-[#ff2d20] font-press-start text-[0.75rem] uppercase tracking-[1px] font-bold text-center transition-all duration-300 ease-in-out cursor-pointer select-none hover:bg-[#ff2d20] hover:text-white [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))] group">
                     OPEN DOCUMENTATION <span class="inline-block animate-arrow-move">→</span>
                 </a>
             </div>
