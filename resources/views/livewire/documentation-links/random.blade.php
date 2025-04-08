@@ -42,7 +42,9 @@
                         {{ $link->title }}
                     </h3>
                 </div>
-                <p class="text-[0.75rem] mb-3 text-gray-400">{{ $link->category }}</p>
+                <p class="text-[0.75rem] mb-3 text-gray-400">
+                    {{ $link->category }} <span class="text-muted">•</span> {{ $link->framework->label() }}
+                </p>
                 <a href="{{ $link->url }}" target="_blank"
                     class="inline-block py-2 px-4 bg-transparent border-2 border-[#ff2d20] text-[#ff2d20] font-press-start text-[0.75rem] uppercase tracking-[1px] font-bold text-center transition-all duration-300 ease-in-out cursor-pointer select-none hover:bg-[#ff2d20] hover:text-white [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))] group">
                     OPEN DOCUMENTATION <span class="inline-block animate-arrow-move">→</span>
