@@ -41,3 +41,21 @@
         }
     }
 }
+
+@keyframes arrow-move {
+    0% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(5px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.animate-arrow-move {
+    animation: arrow-move 1.5s ease-in-out infinite;
+}
