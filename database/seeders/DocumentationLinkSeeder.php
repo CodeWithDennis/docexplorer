@@ -10,31 +10,42 @@ use Illuminate\Database\Seeder;
 
 final class DocumentationLinkSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     */
     public function run(): void
     {
-        $links = [
-            [
-                'title' => 'Laravel Documentation',
-                'url' => 'https://laravel.com/docs',
+
+        foreach ($this->getLaravelLinks() as $link) {
+            DocumentationLink::create([
+                'title' => $link['title'],
+                'url' => $link['url'],
                 'framework' => Framework::Laravel,
+                'category' => $link['category'],
+            ]);
+        }
+    }
+
+    /**
+     * Get Laravel documentation links.
+     *
+     * @return array<int, array<string, string>>
+     */
+    private function getLaravelLinks(): array
+    {
+        return [
+            [
+                'url' => 'https://laravel.com/docs/12.x/installation',
+                'title' => 'Example A',
+                'category' => 'Examples',
             ],
             [
-                'title' => 'Filament Documentation',
-                'url' => 'https://filamentphp.com/docs',
-                'framework' => Framework::Filament,
+                'url' => 'https://laravel.com/docs/12.x/installation',
+                'title' => 'Example B',
+                'category' => 'Examples',
             ],
             [
-                'title' => 'Livewire Documentation',
-                'url' => 'https://livewire.laravel.com/docs',
-                'framework' => Framework::Livewire,
+                'url' => 'https://laravel.com/docs/12.x/installation',
+                'title' => 'Example C',
+                'category' => 'Examples',
             ],
         ];
-
-        foreach ($links as $link) {
-            DocumentationLink::create($link);
-        }
     }
 }

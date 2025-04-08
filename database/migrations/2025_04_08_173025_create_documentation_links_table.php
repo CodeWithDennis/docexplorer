@@ -8,6 +8,9 @@ use Illuminate\Support\Facades\Schema;
 
 return new class() extends Migration
 {
+    /**
+     * Run the migrations.
+     */
     public function up(): void
     {
         Schema::create('documentation_links', function (Blueprint $table) {
@@ -15,10 +18,15 @@ return new class() extends Migration
             $table->string('title');
             $table->string('url');
             $table->string('framework');
+            $table->string('category')->nullable();
+            $table->integer('discoveries_count')->default(0);
             $table->timestamps();
         });
     }
 
+    /**
+     * Reverse the migrations.
+     */
     public function down(): void
     {
         Schema::dropIfExists('documentation_links');
