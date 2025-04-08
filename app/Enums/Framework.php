@@ -21,4 +21,13 @@ enum Framework: string
             self::Livewire => 'Livewire',
         };
     }
+
+    public function color(): string
+    {
+        return match ($this) {
+            self::Laravel => '#ff2d20',
+            self::Filament => '#f47316',
+            self::Livewire => '#fb70a9',
+        };
+    }
 }
