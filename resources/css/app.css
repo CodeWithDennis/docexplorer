@@ -4,32 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-    .discovered {
-        @apply transition-all duration-300 border-4 border-[#ff6b6b] bg-[#16213e] p-6 mb-8 w-full flex flex-col items-center justify-center [clip-path:polygon(0_10px, 10px_0, calc(100%_-_10px)_0, 100%_10px, 100%_calc(100%_-_10px), calc(100%_-_10px)_100%, 10px_100%, 0_calc(100%_-_10px))];
-    }
-
-    .discovered h2 {
-        @apply text-[0.9rem] mb-4 bg-white bg-clip-text text-transparent font-bold text-center;
-    }
-
-    .doc-link {
-        @apply p-4 w-full flex flex-col items-center;
-    }
-
-    .doc-link h3 {
-        @apply text-[0.8rem] mb-2 text-white font-bold text-center;
-    }
-
-    .doc-link .category {
-        @apply text-[0.7rem] mb-3 text-muted;
-    }
-
-    .doc-link a {
-        @apply inline-block py-2 px-4 bg-gradient-to-r from-red-500 to-red-600 text-white font-press-start text-[0.7rem] uppercase tracking-[1px] font-bold text-center shadow-[0_4px_6px_rgba(220, 38, 38, 0.2)] transition-all duration-300 ease-in-out cursor-pointer select-none [clip-path:polygon(0_10px, 10px_0, calc(100%_-_10px)_0, 100%_10px, 100%_calc(100%_-_10px), calc(100%_-_10px)_100%, 10px_100%, 0_calc(100%_-_10px))];
-    }
-}
-
 @layer utilities {
     @keyframes float {
         0% {
@@ -42,6 +16,28 @@
 
         100% {
             transform: translateY(0px);
+        }
+    }
+
+    @keyframes typing {
+        from {
+            width: 0
+        }
+
+        to {
+            width: 100%
+        }
+    }
+
+    @keyframes blink-caret {
+
+        from,
+        to {
+            border-color: transparent
+        }
+
+        50% {
+            border-color: #ff6b6b
         }
     }
 }

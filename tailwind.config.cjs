@@ -18,12 +18,6 @@ module.exports = {
             },
             colors: {
                 'background': '#1A1A2E',
-                'muted': '#64748b',
-                'border': 'rgba(255, 255, 255, 0.1)',
-                'card-bg': 'rgba(255, 255, 255, 0.05)',
-                'filament': '#F2911A',
-                'laravel': '#F53103',
-                'livewire': '#C43684',
             },
             fontFamily: {
                 'press-start': ['"Press Start 2P"', 'cursive'],
