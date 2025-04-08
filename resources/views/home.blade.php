@@ -14,16 +14,16 @@
 
 <body
     class="antialiased bg-background text-white font-press-start leading-relaxed h-screen overflow-hidden flex items-center justify-center text-center bg-[radial-gradient(circle_at_25px_25px,rgba(255,255,255,0.15)_2%,transparent_0),radial-gradient(circle_at_75px_75px,rgba(255,255,255,0.15)_2%,transparent_0)] bg-[length:100px_100px] bg-[position:0_0] bg-fixed">
-    <div class="max-w-[700px] w-full mx-auto px-5 flex flex-col items-center justify-center min-h-screen">
+    <div class="max-w-[750px] mx-auto px-6 flex flex-col items-center justify-center min-h-screen">
         <div class="animate-float flex flex-col items-center justify-center w-full">
             <h1
-                class="text-[2.16rem] mb-[5px] bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent font-bold leading-tight w-full">
+                class="text-[2.3rem] mb-[6px] bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent font-bold leading-tight w-full">
                 LARAVEL
             </h1>
-            <h2 class="text-[0.9rem] mb-[15px] bg-white bg-clip-text text-transparent font-bold w-full">
+            <h2 class="text-[1rem] mb-[18px] bg-white bg-clip-text text-transparent font-bold w-full">
                 DOCEXPLORER
             </h2>
-            <p class="text-[0.756rem] mb-[25px] text-muted leading-[1.8] w-full">
+            <p class="text-[0.85rem] mb-[28px] text-gray-400 leading-[1.8] w-full">
                 Level up your Laravel knowledge with random documentation discoveries!
             </p>
         </div>
