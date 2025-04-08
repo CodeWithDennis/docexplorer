@@ -17,30 +17,34 @@ final class Random extends Component
 
     public int $highScore = 0;
 
-    public ?Framework $selectedFramework = null;
+    public Framework $selectedFramework;
 
     public array $frameworks = [];
 
     public function mount(): void
     {
         $this->frameworks = Framework::cases();
-        $this->streak = Session::get('streak', 0);
-        $this->highScore = Session::get('high_score', 0);
 
-        // Retrieve the selected framework from session
+        // Set Laravel as the default framework
+        $this->selectedFramework = Framework::Laravel;
+
+        // Retrieve the selected framework from session if it exists
         $frameworkValue = Session::get('selected_framework');
         if ($frameworkValue) {
             $this->selectedFramework = Framework::from($frameworkValue);
+        } else {
+            // If no framework is selected in session, set Laravel as default
+            Session::put('selected_framework', Framework::Laravel->value);
         }
+
+        // Load framework-specific streak and high score
+        $this->loadFrameworkStats();
     }
 
     public function getRandomLink(): void
     {
         $query = DocumentationLink::query();
-
-        if ($this->selectedFramework instanceof Framework) {
-            $query->where('framework', $this->selectedFramework);
-        }
+        $query->where('framework', $this->selectedFramework);
 
         $this->link = $query->inRandomOrder()->first();
 
@@ -50,29 +54,30 @@ final class Random extends Component
 
             if ($this->streak > $this->highScore) {
                 $this->highScore = $this->streak;
-                Session::put('high_score', $this->highScore);
+                $this->saveFrameworkStats();
             }
         }
 
-        Session::put('streak', $this->streak);
+        $this->saveFrameworkStats();
     }
 
     public function resetHighScore(): void
     {
         $this->streak = 0;
         $this->highScore = 0;
-        Session::forget(['streak', 'high_score']);
+        $this->saveFrameworkStats();
     }
 
-    public function setFramework(?string $frameworkValue): void
+    public function setFramework(string $frameworkValue): void
     {
-        if ($frameworkValue === null) {
-            $this->selectedFramework = null;
-            Session::forget('selected_framework');
-        } else {
-            $this->selectedFramework = Framework::from($frameworkValue);
-            Session::put('selected_framework', $frameworkValue);
-        }
+        $this->selectedFramework = Framework::from($frameworkValue);
+        Session::put('selected_framework', $frameworkValue);
+
+        // Reset the discovered link when switching frameworks
+        $this->link = null;
+
+        // Load the stats for the newly selected framework
+        $this->loadFrameworkStats();
     }
 
     public function render()
@@ -80,5 +85,19 @@ final class Random extends Component
         return view('livewire.documentation-links.random', [
             'frameworks' => Framework::cases(),
         ]);
+    }
+
+    private function loadFrameworkStats(): void
+    {
+        $frameworkKey = $this->selectedFramework->value;
+        $this->streak = Session::get("streak_{$frameworkKey}", 0);
+        $this->highScore = Session::get("high_score_{$frameworkKey}", 0);
+    }
+
+    private function saveFrameworkStats(): void
+    {
+        $frameworkKey = $this->selectedFramework->value;
+        Session::put("streak_{$frameworkKey}", $this->streak);
+        Session::put("high_score_{$frameworkKey}", $this->highScore);
     }
 }
