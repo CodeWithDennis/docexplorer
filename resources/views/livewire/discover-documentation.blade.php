@@ -1,15 +1,16 @@
 <div class="max-w-[550px] w-full mx-auto">
     <div class="animate-float flex flex-col items-center justify-center w-full mb-6">
         <h1
-            class="text-[2.3rem] mb-[6px] bg-gradient-to-r from-[{{ $selectedFramework->color() }}] to-[{{ $selectedFramework->color() }}] bg-clip-text text-transparent font-bold leading-tight w-full text-center">
+            class="text-[1.5rem] md:text-[2.3rem] mb-[6px] bg-gradient-to-r from-[{{ $selectedFramework->color() }}] to-[{{ $selectedFramework->color() }}] bg-clip-text text-transparent font-bold leading-tight w-full text-center">
             {{ strtoupper($selectedFramework->label()) }}
         </h1>
 
-        <h2 class="text-[1rem] mb-[18px] bg-white bg-clip-text text-transparent font-bold w-full text-center">
+        <h2
+            class="text-[0.85rem] md:text-[1rem] mb-[18px] bg-white bg-clip-text text-transparent font-bold w-full text-center">
             DOCEXPLORER
         </h2>
 
-        <p class="text-[0.75rem] mb-[28px] text-gray-400 leading-[1.8] w-full text-center">
+        <p class="text-[0.65rem] md:text-[0.75rem] mb-[28px] text-gray-400 leading-[1.8] w-full text-center px-4">
             Level up your {{ $this->selectedFramework->label() }} knowledge with random documentation discoveries!
         </p>
     </div>
