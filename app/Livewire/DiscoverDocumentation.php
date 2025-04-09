@@ -20,7 +20,7 @@ final class DiscoverDocumentation extends Component
     public int $highScore = 0;
 
     protected $listeners = [
-        'framework-switched' => 'handleFrameworkSwitch'
+        'framework-switched' => 'handleFrameworkSwitch',
     ];
 
     public function mount(): void
