@@ -1,0 +1,3463 @@
+[
+    {
+        "title": "Quickstart",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart",
+        "framework": "livewire"
+    },
+    {
+        "title": "Installation",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/installation",
+        "framework": "livewire"
+    },
+    {
+        "title": "Upgrade Guide",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading",
+        "framework": "livewire"
+    },
+    {
+        "title": "Components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components",
+        "framework": "livewire"
+    },
+    {
+        "title": "Properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties",
+        "framework": "livewire"
+    },
+    {
+        "title": "Actions",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions",
+        "framework": "livewire"
+    },
+    {
+        "title": "Forms",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms",
+        "framework": "livewire"
+    },
+    {
+        "title": "Events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events",
+        "framework": "livewire"
+    },
+    {
+        "title": "Lifecycle Hooks",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks",
+        "framework": "livewire"
+    },
+    {
+        "title": "Nesting Components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting",
+        "framework": "livewire"
+    },
+    {
+        "title": "Testing",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing",
+        "framework": "livewire"
+    },
+    {
+        "title": "Alpine",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine",
+        "framework": "livewire"
+    },
+    {
+        "title": "Navigate",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate",
+        "framework": "livewire"
+    },
+    {
+        "title": "Lazy Loading",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy",
+        "framework": "livewire"
+    },
+    {
+        "title": "Validation",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation",
+        "framework": "livewire"
+    },
+    {
+        "title": "File Uploads",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads",
+        "framework": "livewire"
+    },
+    {
+        "title": "Pagination",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination",
+        "framework": "livewire"
+    },
+    {
+        "title": "URL Query Parameters",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url",
+        "framework": "livewire"
+    },
+    {
+        "title": "Computed Properties",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties",
+        "framework": "livewire"
+    },
+    {
+        "title": "Session Properties",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/session-properties",
+        "framework": "livewire"
+    },
+    {
+        "title": "Redirecting",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/redirecting",
+        "framework": "livewire"
+    },
+    {
+        "title": "File Downloads",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/downloads",
+        "framework": "livewire"
+    },
+    {
+        "title": "Locked Properties",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/locked",
+        "framework": "livewire"
+    },
+    {
+        "title": "Request Bundling",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/bundling",
+        "framework": "livewire"
+    },
+    {
+        "title": "Offline States",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/offline",
+        "framework": "livewire"
+    },
+    {
+        "title": "Teleport",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/teleport",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:click",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-click",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:submit",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-submit",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:model",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:loading",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:navigate",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-navigate",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:current",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-current",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:cloak",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-cloak",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:dirty",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-dirty",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:confirm",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-confirm",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:transition",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-transition",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:init",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-init",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:poll",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-poll",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:offline",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-offline",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:ignore",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-ignore",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:replace",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-replace",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:show",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-show",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:stream",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-stream",
+        "framework": "livewire"
+    },
+    {
+        "title": "wire:text",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-text",
+        "framework": "livewire"
+    },
+    {
+        "title": "Morphing",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/morphing",
+        "framework": "livewire"
+    },
+    {
+        "title": "Hydration",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration",
+        "framework": "livewire"
+    },
+    {
+        "title": "Nesting",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/understanding-nesting",
+        "framework": "livewire"
+    },
+    {
+        "title": "Troubleshooting",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/troubleshooting",
+        "framework": "livewire"
+    },
+    {
+        "title": "Security",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security",
+        "framework": "livewire"
+    },
+    {
+        "title": "JavaScript",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript",
+        "framework": "livewire"
+    },
+    {
+        "title": "Synthesizers",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/synthesizers",
+        "framework": "livewire"
+    },
+    {
+        "title": "Contribution Guide",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/contribution-guide",
+        "framework": "livewire"
+    },
+    {
+        "title": "Volt",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt",
+        "framework": "livewire"
+    },
+    {
+        "title": "Prerequisites",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart#prerequisites",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/quickstart"
+    },
+    {
+        "title": "Install Livewire",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart#install-livewire",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/quickstart"
+    },
+    {
+        "title": "Create a Livewire component",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart#create-a-livewire-component",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/quickstart"
+    },
+    {
+        "title": "Writing the class",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart#writing-the-class",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/quickstart"
+    },
+    {
+        "title": "Writing the view",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart#writing-the-view",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/quickstart"
+    },
+    {
+        "title": "Register a route for the component",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart#register-a-route-for-the-component",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/quickstart"
+    },
+    {
+        "title": "Create a template layout",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart#create-a-template-layout",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/quickstart"
+    },
+    {
+        "title": "Test it out",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/quickstart#test-it-out",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/quickstart"
+    },
+    {
+        "title": "Publishing the configuration file",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/installation#publishing-the-configuration-file",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/installation"
+    },
+    {
+        "title": "Manually including Livewire's frontend assets",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/installation#manually-including-livewires-frontend-assets",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/installation"
+    },
+    {
+        "title": "Configuring Livewire's update endpoint",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/installation#configuring-livewires-update-endpoint",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/installation"
+    },
+    {
+        "title": "Customizing the asset URL",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/installation#customizing-the-asset-url",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/installation"
+    },
+    {
+        "title": "Manually bundling Livewire and Alpine",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/installation#manually-bundling-livewire-and-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/installation"
+    },
+    {
+        "title": "Publishing Livewire's frontend assets",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/installation#publishing-livewires-frontend-assets",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/installation"
+    },
+    {
+        "title": "Automated upgrade tool",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#automated-upgrade-tool",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Upgrade PHP",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#upgrade-php",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Update Livewire to version 3",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#update-livewire-to-version-3",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Clear the view cache",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#clear-the-view-cache",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Merge new configuration",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#merge-new-configuration",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "New configuration",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#new-configuration",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Changed configuration",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#changed-configuration",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Removed configuration",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#removed-configuration",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Livewire app namespace",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#livewire-app-namespace",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Discovery",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#discovery",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Page component layout view",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#page-component-layout-view",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Eloquent model binding",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#eloquent-model-binding",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "AlpineJS",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#alpinejs",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Including Alpine via a script tag",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#including-alpine-via-a-script-tag",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Including plugins via a script tag",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#including-plugins-via-a-script-tag",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Accessing the Alpine global via a script tag",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#accessing-the-alpine-global-via-a-script-tag",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Including via JS bundle",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#including-via-js-bundle",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "wire:model",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#wiremodel",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "@entangle",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#entangle",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Events",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "emitUp()",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#emitup",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Testing events",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#testing-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "URL query string",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#url-query-string",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Pagination",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#pagination",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Update published pagination views",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#update-published-pagination-views",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Accessing $this->page directly",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#accessing-this-page-directly",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "wire:click.prefetch",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#wireclickprefetch",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Component class changes",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#component-class-changes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "The component $id property",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#the-component-id-property",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Duplicate method and property names",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#duplicate-method-and-property-names",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "JavaScript API changes",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#javascript-api-changes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "livewire:load",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#livewireload",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Page expired hook",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#page-expired-hook",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "New lifecycle hooks",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#new-lifecycle-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Localization",
+        "category": "Getting Started",
+        "url": "https://livewire.laravel.com/docs/upgrading#localization",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/upgrading"
+    },
+    {
+        "title": "Creating components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#creating-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Inline components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#inline-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Omitting the render method",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#omitting-the-render-method",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Customizing component stubs",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#customizing-component-stubs",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Setting properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#setting-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Accessing properties in the view",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#accessing-properties-in-the-view",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Sharing additional data with the view",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#sharing-additional-data-with-the-view",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Adding wire:key to @foreach loops",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#adding-wirekey-to-foreach-loops",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Binding inputs to properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#binding-inputs-to-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Calling actions",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#calling-actions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Rendering components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#rendering-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Passing data into components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#passing-data-into-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Full-page components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#full-page-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Layout files",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#layout-files",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Setting the page title",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#setting-the-page-title",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Setting additional layout file slots",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#setting-additional-layout-file-slots",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Accessing route parameters",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#accessing-route-parameters",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Using route model binding",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#using-route-model-binding",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Modifying the response",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#modifying-the-response",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Using JavaScript",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#using-javascript",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Executing scripts",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#executing-scripts",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Loading assets",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/components#loading-assets",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/components"
+    },
+    {
+        "title": "Initializing properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#initializing-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Bulk assignment",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#bulk-assignment",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Data binding",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#data-binding",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Resetting properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#resetting-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Pulling properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#pulling-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Supported property types",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#supported-property-types",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Primitive types",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#primitive-types",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Common PHP types",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#common-php-types",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Supporting custom types",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#supporting-custom-types",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Accessing properties from JavaScript",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#accessing-properties-from-javascript",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Accessing properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#accessing-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Manipulating properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#manipulating-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Security concerns",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#security-concerns",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Don't trust property values",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#dont-trust-property-values",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Properties expose system information to the browser",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#properties-expose-system-information-to-the-browser",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Eloquent constraints aren't preserved between requests",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/properties#eloquent-constraints-arent-preserved-between-requests",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/properties"
+    },
+    {
+        "title": "Refreshing a component",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#refreshing-a-component",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Confirming an action",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#confirming-an-action",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Event listeners",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#event-listeners",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Listening for specific keys",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#listening-for-specific-keys",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Event handler modifiers",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#event-handler-modifiers",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Handling third-party events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#handling-third-party-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Listening for dispatched custom events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#listening-for-dispatched-custom-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Disabling inputs while a form is being submitted",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#disabling-inputs-while-a-form-is-being-submitted",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Passing parameters",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#passing-parameters",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Dependency injection",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#dependency-injection",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Calling actions from Alpine",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#calling-actions-from-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Passing parameters",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#passing-parameters-1",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Receiving return values",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#receiving-return-values",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "JavaScript actions",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#javascript-actions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Calling from Alpine",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#calling-from-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Calling from PHP",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#calling-from-php",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Magic actions",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#magic-actions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "$parent",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#parent",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "$set",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#set",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "$refresh",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#refresh",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "$toggle",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#toggle",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "$dispatch",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#dispatch",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "$event",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#event",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Using magic actions from Alpine",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#using-magic-actions-from-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Skipping re-renders",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#skipping-re-renders",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Security concerns",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#security-concerns",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Always authorize action parameters",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#always-authorize-action-parameters",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Always authorize server-side",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#always-authorize-server-side",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Keep dangerous methods protected or private",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/actions#keep-dangerous-methods-protected-or-private",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/actions"
+    },
+    {
+        "title": "Submitting a form",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#submitting-a-form",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Adding validation",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#adding-validation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Extracting a form object",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#extracting-a-form-object",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Resetting form fields",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#resetting-form-fields",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Pulling form fields",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#pulling-form-fields",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Using Rule objects",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#using-rule-objects",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Showing a loading indicator",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#showing-a-loading-indicator",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Live-updating fields",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#live-updating-fields",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Only updating fields on blur",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#only-updating-fields-on-blur",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Real-time validation",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#real-time-validation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Real-time form saving",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#real-time-form-saving",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Showing dirty indicators",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#showing-dirty-indicators",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Debouncing input",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#debouncing-input",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Throttling input",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#throttling-input",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Extracting input fields to Blade components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#extracting-input-fields-to-blade-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Custom form controls",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/forms#custom-form-controls",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/forms"
+    },
+    {
+        "title": "Dispatching events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#dispatching-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Listening for events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#listening-for-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Listening for dynamic event names",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#listening-for-dynamic-event-names",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Listening for events from specific child components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#listening-for-events-from-specific-child-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Using JavaScript to interact with events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#using-javascript-to-interact-with-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Listening for events inside component scripts",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#listening-for-events-inside-component-scripts",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Dispatching events from component scripts",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#dispatching-events-from-component-scripts",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Listening for Livewire events from global JavaScript",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#listening-for-livewire-events-from-global-javascript",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Events in Alpine",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#events-in-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Listening for Livewire events in Alpine",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#listening-for-livewire-events-in-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Dispatching Livewire events from Alpine",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#dispatching-livewire-events-from-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Dispatching directly to another component",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#dispatching-directly-to-another-component",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Dispatching a component event to itself",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#dispatching-a-component-event-to-itself",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Dispatching events from Blade templates",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#dispatching-events-from-blade-templates",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Testing dispatched events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#testing-dispatched-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Testing Event Listeners",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#testing-event-listeners",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Real-time events using Laravel Echo",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#real-time-events-using-laravel-echo",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Listening for Echo events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#listening-for-echo-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Private & presence channels",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/events#private--presence-channels",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/events"
+    },
+    {
+        "title": "Mount",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks#mount",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lifecycle-hooks"
+    },
+    {
+        "title": "Boot",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks#boot",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lifecycle-hooks"
+    },
+    {
+        "title": "Update",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks#update",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lifecycle-hooks"
+    },
+    {
+        "title": "Arrays",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks#arrays",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lifecycle-hooks"
+    },
+    {
+        "title": "Hydrate & Dehydrate",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks#hydrate--dehydrate",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lifecycle-hooks"
+    },
+    {
+        "title": "Render",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks#render",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lifecycle-hooks"
+    },
+    {
+        "title": "Exception",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks#exception",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lifecycle-hooks"
+    },
+    {
+        "title": "Using hooks inside a trait",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/lifecycle-hooks#using-hooks-inside-a-trait",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lifecycle-hooks"
+    },
+    {
+        "title": "Nesting a component",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#nesting-a-component",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Passing props to children",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#passing-props-to-children",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Passing static props",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#passing-static-props",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Shortened attribute syntax",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#shortened-attribute-syntax",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Rendering children in a loop",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#rendering-children-in-a-loop",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Reactive props",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#reactive-props",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Binding to child data using wire:model",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#binding-to-child-data-using-wiremodel",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Listening for events from children",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#listening-for-events-from-children",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Improving performance by dispatching client-side",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#improving-performance-by-dispatching-client-side",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Directly accessing the parent from the child",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#directly-accessing-the-parent-from-the-child",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Dynamic child components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#dynamic-child-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Recursive components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#recursive-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Forcing a child component to re-render",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/nesting#forcing-a-child-component-to-re-render",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/nesting"
+    },
+    {
+        "title": "Creating your first test",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#creating-your-first-test",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Testing a page contains a component",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#testing-a-page-contains-a-component",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Testing views",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#testing-views",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Asserting data from the view",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#asserting-data-from-the-view",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Setting the authenticated user",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#setting-the-authenticated-user",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Testing properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#testing-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Initializing properties",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#initializing-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Setting URL parameters",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#setting-url-parameters",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Setting cookies",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#setting-cookies",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Calling actions",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#calling-actions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Validation",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#validation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Authorization",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#authorization",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Redirects",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#redirects",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Events",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "All available testing utilities",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#all-available-testing-utilities",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Setup methods",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#setup-methods",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Interacting with components",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#interacting-with-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "Assertions",
+        "category": "Essentials",
+        "url": "https://livewire.laravel.com/docs/testing#assertions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/testing"
+    },
+    {
+        "title": "A Basic Alpine component",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#a-basic-alpine-component",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Using Alpine inside Livewire",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#using-alpine-inside-livewire",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Controlling Livewire from Alpine using $wire",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#controlling-livewire-from-alpine-using-wire",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Accessing Livewire properties",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#accessing-livewire-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Mutating Livewire properties",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#mutating-livewire-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Calling Livewire methods",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#calling-livewire-methods",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Refreshing a component",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#refreshing-a-component",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Sharing state using $wire.entangle",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#sharing-state-using-wireentangle",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Manually bundling Alpine in your JavaScript build",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/alpine#manually-bundling-alpine-in-your-javascript-build",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/alpine"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Redirects",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#redirects",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Prefetching links",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#prefetching-links",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Persisting elements across page visits",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#persisting-elements-across-page-visits",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Highlighting active links",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#highlighting-active-links",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Preserving scroll position",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#preserving-scroll-position",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "JavaScript hooks",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#javascript-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Manually visiting a new page",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#manually-visiting-a-new-page",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Using with analytics software",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#using-with-analytics-software",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Script evaluation",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#script-evaluation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Don't rely on DOMContentLoaded",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#dont-rely-on-domcontentloaded",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Scripts in <head> are loaded once",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#scripts-in-head-are-loaded-once",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "New <head> scripts are evaluated",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#new-head-scripts-are-evaluated",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Reloading when assets change",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#reloading-when-assets-change",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Scripts in the <body> are re-evaluated",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#scripts-in-the-body-are-re-evaluated",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Customizing the progress bar",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/navigate#customizing-the-progress-bar",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/navigate"
+    },
+    {
+        "title": "Rendering placeholder HTML",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#rendering-placeholder-html",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Rendering a placeholder via a view",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#rendering-a-placeholder-via-a-view",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Lazy loading outside of the viewport",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#lazy-loading-outside-of-the-viewport",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Passing in props",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#passing-in-props",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Lazy load by default",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#lazy-load-by-default",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Disabling request isolation",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#disabling-request-isolation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Full-page lazy loading",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#full-page-lazy-loading",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Default placeholder view",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#default-placeholder-view",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Disabling lazy loading for tests",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/lazy#disabling-lazy-loading-for-tests",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/lazy"
+    },
+    {
+        "title": "Validate attributes",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#validate-attributes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Custom attribute name",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#custom-attribute-name",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Custom validation message",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#custom-validation-message",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Opting out of localization",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#opting-out-of-localization",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Custom key",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#custom-key",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Form objects",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#form-objects",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Real-time validation",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#real-time-validation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Customizing error messages",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#customizing-error-messages",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Custom attribute names",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#custom-attribute-names",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Custom messages",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#custom-messages",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Defining a rules() method",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#defining-a-rules-method",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Using Laravel Rule objects",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#using-laravel-rule-objects",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Manually controlling validation errors",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#manually-controlling-validation-errors",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Accessing the validator instance",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#accessing-the-validator-instance",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Using custom validators",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#using-custom-validators",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Testing validation",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#testing-validation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Deprecated [#Rule] attribute",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/validation#deprecated-rule-attribute",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/validation"
+    },
+    {
+        "title": "Storing uploaded files",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#storing-uploaded-files",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Handling multiple files",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#handling-multiple-files",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "File validation",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#file-validation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Temporary preview URLs",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#temporary-preview-urls",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Testing file uploads",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#testing-file-uploads",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Uploading directly to Amazon S3",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#uploading-directly-to-amazon-s3",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Configuring automatic file cleanup",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#configuring-automatic-file-cleanup",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Loading indicators",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#loading-indicators",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Progress indicators",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#progress-indicators",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Cancelling an upload",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#cancelling-an-upload",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "JavaScript upload API",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#javascript-upload-api",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Configuration",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#configuration",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Global validation",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#global-validation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Global middleware",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#global-middleware",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Temporary upload directory",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/uploads#temporary-upload-directory",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/uploads"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Disabling URL query string tracking",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#disabling-url-query-string-tracking",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Customizing scroll behavior",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#customizing-scroll-behavior",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Resetting the page",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#resetting-the-page",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Available page navigation methods",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#available-page-navigation-methods",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Multiple paginators",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#multiple-paginators",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Hooking into page updates",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#hooking-into-page-updates",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Named paginator hooks",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#named-paginator-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "General paginator hooks",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#general-paginator-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Using the simple theme",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#using-the-simple-theme",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Using cursor pagination",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#using-cursor-pagination",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Using Bootstrap instead of Tailwind",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#using-bootstrap-instead-of-tailwind",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Modifying the default pagination views",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#modifying-the-default-pagination-views",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Using custom pagination views",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#using-custom-pagination-views",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Via ->links()",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#via--links",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Via paginationView() or paginationSimpleView()",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#via-paginationview-or-paginationsimpleview",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Sample pagination view",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/pagination#sample-pagination-view",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/pagination"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Initializing properties from the URL",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#initializing-properties-from-the-url",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Nullable properties",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#nullable-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Using an alias",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#using-an-alias",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Excluding certain values",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#excluding-certain-values",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Display on page load",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#display-on-page-load",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Storing in history",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#storing-in-history",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Using the queryString method",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#using-the-querystring-method",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Trait hooks",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/url#trait-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/url"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "Performance advantage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#performance-advantage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "Busting the cache",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#busting-the-cache",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "Caching between requests",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#caching-between-requests",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "Caching across all components",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#caching-across-all-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "When to use computed properties?",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#when-to-use-computed-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "Conditionally accessing values",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#conditionally-accessing-values",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "Using inline templates",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#using-inline-templates",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "Omitting the render method",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/computed-properties#omitting-the-render-method",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/computed-properties"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/session-properties#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/session-properties"
+    },
+    {
+        "title": "Setting a custom key",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/session-properties#setting-a-custom-key",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/session-properties"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/redirecting#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/redirecting"
+    },
+    {
+        "title": "Redirect to Route",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/redirecting#redirect-to-route",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/redirecting"
+    },
+    {
+        "title": "Redirect to intended",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/redirecting#redirect-to-intended",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/redirecting"
+    },
+    {
+        "title": "Redirecting to full-page components",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/redirecting#redirecting-to-full-page-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/redirecting"
+    },
+    {
+        "title": "Flash messages",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/redirecting#flash-messages",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/redirecting"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/downloads#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/downloads"
+    },
+    {
+        "title": "Streaming downloads",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/downloads#streaming-downloads",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/downloads"
+    },
+    {
+        "title": "Testing file downloads",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/downloads#testing-file-downloads",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/downloads"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/locked#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/locked"
+    },
+    {
+        "title": "Why not use protected properties?",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/locked#why-not-use-protected-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/locked"
+    },
+    {
+        "title": "Can't Livewire do this automatically?",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/locked#cant-livewire-do-this-automatically",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/locked"
+    },
+    {
+        "title": "Isolating component requests",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/bundling#isolating-component-requests",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/bundling"
+    },
+    {
+        "title": "Lazy components are isolated by default",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/bundling#lazy-components-are-isolated-by-default",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/bundling"
+    },
+    {
+        "title": "Toggling classes",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/offline#toggling-classes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/offline"
+    },
+    {
+        "title": "Toggling attributes",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/offline#toggling-attributes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/offline"
+    },
+    {
+        "title": "Basic usage",
+        "category": "Features",
+        "url": "https://livewire.laravel.com/docs/teleport#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/teleport"
+    },
+    {
+        "title": "Using wire:click on links",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-click#using-wireclick-on-links",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-click"
+    },
+    {
+        "title": "Going deeper",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-click#going-deeper",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-click"
+    },
+    {
+        "title": "Going deeper",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-submit#going-deeper",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-submit"
+    },
+    {
+        "title": "Customizing update timing",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#customizing-update-timing",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Live updating",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#live-updating",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Updating on \"blur\" event",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#updating-on-blur-event",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Updating on \"change\" event",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#updating-on-change-event",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "All available modifiers",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#all-available-modifiers",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Input fields",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#input-fields",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Text inputs",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#text-inputs",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Textarea inputs",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#textarea-inputs",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Checkboxes",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#checkboxes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Radio buttons",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#radio-buttons",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Select dropdowns",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#select-dropdowns",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Dependent select dropdowns",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#dependent-select-dropdowns",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Multi-select dropdowns",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#multi-select-dropdowns",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Going deeper",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-model#going-deeper",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-model"
+    },
+    {
+        "title": "Basic usage",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Removing elements",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#removing-elements",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Toggling classes",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#toggling-classes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Toggling attributes",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#toggling-attributes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Targeting specific actions",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#targeting-specific-actions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Targeting multiple actions",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#targeting-multiple-actions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Targeting action parameters",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#targeting-action-parameters",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Targeting property updates",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#targeting-property-updates",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Excluding specific loading targets",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#excluding-specific-loading-targets",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Customizing CSS display property",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#customizing-css-display-property",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Delaying a loading indicator",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-loading#delaying-a-loading-indicator",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-loading"
+    },
+    {
+        "title": "Prefetching pages on hover",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-navigate#prefetching-pages-on-hover",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-navigate"
+    },
+    {
+        "title": "Going deeper",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-navigate#going-deeper",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-navigate"
+    },
+    {
+        "title": "Exact matching",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-current#exact-matching",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-current"
+    },
+    {
+        "title": "Strict matching",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-current#strict-matching",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-current"
+    },
+    {
+        "title": "Troubleshooting",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-current#troubleshooting",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-current"
+    },
+    {
+        "title": "Basic usage",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-cloak#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-cloak"
+    },
+    {
+        "title": "Dynamic content",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-cloak#dynamic-content",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-cloak"
+    },
+    {
+        "title": "Basic usage",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-dirty#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-dirty"
+    },
+    {
+        "title": "Removing elements",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-dirty#removing-elements",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-dirty"
+    },
+    {
+        "title": "Targeting property updates",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-dirty#targeting-property-updates",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-dirty"
+    },
+    {
+        "title": "Toggling classes",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-dirty#toggling-classes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-dirty"
+    },
+    {
+        "title": "Prompting users for input",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-confirm#prompting-users-for-input",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-confirm"
+    },
+    {
+        "title": "Basic usage",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-transition#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-transition"
+    },
+    {
+        "title": "Limitations",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-transition#limitations",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-transition"
+    },
+    {
+        "title": "Default transition style",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-transition#default-transition-style",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-transition"
+    },
+    {
+        "title": "Customizing transitions",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-transition#customizing-transitions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-transition"
+    },
+    {
+        "title": "Basic usage",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-poll#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-poll"
+    },
+    {
+        "title": "Timing control",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-poll#timing-control",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-poll"
+    },
+    {
+        "title": "Background throttling",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-poll#background-throttling",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-poll"
+    },
+    {
+        "title": "Viewport throttling",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-poll#viewport-throttling",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-poll"
+    },
+    {
+        "title": "Basic usage",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-show#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-show"
+    },
+    {
+        "title": "Using transitions",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-show#using-transitions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-show"
+    },
+    {
+        "title": "Streaming chat-bot responses",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-stream#streaming-chat-bot-responses",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-stream"
+    },
+    {
+        "title": "Replace vs. append",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-stream#replace-vs-append",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-stream"
+    },
+    {
+        "title": "Basic usage",
+        "category": "HTML Directives",
+        "url": "https://livewire.laravel.com/docs/wire-text#basic-usage",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/wire-text"
+    },
+    {
+        "title": "How morphing works",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/morphing#how-morphing-works",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/morphing"
+    },
+    {
+        "title": "Morphing shortcomings",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/morphing#morphing-shortcomings",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/morphing"
+    },
+    {
+        "title": "Inserting intermediate elements",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/morphing#inserting-intermediate-elements",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/morphing"
+    },
+    {
+        "title": "Internal look-ahead",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/morphing#internal-look-ahead",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/morphing"
+    },
+    {
+        "title": "Injecting morph markers",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/morphing#injecting-morph-markers",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/morphing"
+    },
+    {
+        "title": "Dehydrating",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration#dehydrating",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/hydration"
+    },
+    {
+        "title": "Rendering HTML",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration#rendering-html",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/hydration"
+    },
+    {
+        "title": "The snapshot",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration#the-snapshot",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/hydration"
+    },
+    {
+        "title": "Embedding the snapshot in the HTML",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration#embedding-the-snapshot-in-the-html",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/hydration"
+    },
+    {
+        "title": "Hydrating",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration#hydrating",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/hydration"
+    },
+    {
+        "title": "Advanced hydration",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration#advanced-hydration",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/hydration"
+    },
+    {
+        "title": "Deeply nested tuples",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration#deeply-nested-tuples",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/hydration"
+    },
+    {
+        "title": "Supporting custom property types",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/hydration#supporting-custom-property-types",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/hydration"
+    },
+    {
+        "title": "Every component is an island",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/understanding-nesting#every-component-is-an-island",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/understanding-nesting"
+    },
+    {
+        "title": "Updating a child",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/understanding-nesting#updating-a-child",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/understanding-nesting"
+    },
+    {
+        "title": "Updating the parent",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/understanding-nesting#updating-the-parent",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/understanding-nesting"
+    },
+    {
+        "title": "Performance implications",
+        "category": "Concepts",
+        "url": "https://livewire.laravel.com/docs/understanding-nesting#performance-implications",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/understanding-nesting"
+    },
+    {
+        "title": "Component mismatches",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/troubleshooting#component-mismatches",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/troubleshooting"
+    },
+    {
+        "title": "Adding wire:key",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/troubleshooting#adding-wirekey",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/troubleshooting"
+    },
+    {
+        "title": "Multiple instances of Alpine",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/troubleshooting#multiple-instances-of-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/troubleshooting"
+    },
+    {
+        "title": "Removing Laravel Breeze's Alpine",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/troubleshooting#removing-laravel-breezes-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/troubleshooting"
+    },
+    {
+        "title": "Removing a CDN version of Alpine",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/troubleshooting#removing-a-cdn-version-of-alpine",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/troubleshooting"
+    },
+    {
+        "title": "Missing @alpinejs/ui",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/troubleshooting#missing-alpinejsui",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/troubleshooting"
+    },
+    {
+        "title": "Authorizing action parameters",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#authorizing-action-parameters",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Authorizing public properties",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#authorizing-public-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Using model properties",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#using-model-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Locking the property",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#locking-the-property",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Authorizing the property",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#authorizing-the-property",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Middleware",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#middleware",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Configuring persistent middleware",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#configuring-persistent-middleware",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Applying global Livewire middleware",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#applying-global-livewire-middleware",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Snapshot checksums",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/security#snapshot-checksums",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/security"
+    },
+    {
+        "title": "Using JavaScript in Livewire components",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#using-javascript-in-livewire-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Executing scripts",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#executing-scripts",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Using $wire from scripts",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#using-wire-from-scripts",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Evaluating one-off JavaScript expressions",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#evaluating-one-off-javascript-expressions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Loading assets",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#loading-assets",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Global Livewire events",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#global-livewire-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "The Livewire global object",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#the-livewire-global-object",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Accessing components",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#accessing-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Interacting with events",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#interacting-with-events",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Using lifecycle hooks",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#using-lifecycle-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Registering custom directives",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#registering-custom-directives",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Object schemas",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#object-schemas",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "The $wire object",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#the-wire-object",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "The snapshot object",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#the-snapshot-object",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "The component object",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#the-component-object",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "The commit payload",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#the-commit-payload",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "JavaScript hooks",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#javascript-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Component initialization",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#component-initialization",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "DOM element initialization",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#dom-element-initialization",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "DOM Morph hooks",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#dom-morph-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Commit hooks",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#commit-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Request hooks",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#request-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Customizing page expiration behavior",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/javascript#customizing-page-expiration-behavior",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/javascript"
+    },
+    {
+        "title": "Understanding Synthesizers",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/synthesizers#understanding-synthesizers",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/synthesizers"
+    },
+    {
+        "title": "Registering a custom Synthesizer",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/synthesizers#registering-a-custom-synthesizer",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/synthesizers"
+    },
+    {
+        "title": "Supporting data binding",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/synthesizers#supporting-data-binding",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/synthesizers"
+    },
+    {
+        "title": "Setting up Livewire and Alpine locally",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/contribution-guide#setting-up-livewire-and-alpine-locally",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/contribution-guide"
+    },
+    {
+        "title": "Forking and cloning the repositories",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/contribution-guide#forking-and-cloning-the-repositories",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/contribution-guide"
+    },
+    {
+        "title": "Contributing a Failing Test",
+        "category": "Advanced",
+        "url": "https://livewire.laravel.com/docs/contribution-guide#contributing-a-failing-test",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/contribution-guide"
+    },
+    {
+        "title": "Installation",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#installation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Creating components",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#creating-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "API style",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#api-style",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Class-based Volt components",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#class-based-volt-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Rendering and mounting components",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#rendering-and-mounting-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Full-page components",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#full-page-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Properties",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Locked properties",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#locked-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Reactive properties",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#reactive-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Modelable properties",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#modelable-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Computed properties",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#computed-properties",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Actions",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#actions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Renderless actions",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#renderless-actions",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Protected helpers",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#protected-helpers",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Forms",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#forms",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Listeners",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#listeners",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Lifecycle hooks",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#lifecycle-hooks",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Lazy loading placeholders",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#lazy-loading-placeholders",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Validation",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#validation",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Error messages and attributes",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#error-messages-and-attributes",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "File uploads",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#file-uploads",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "URL query parameters",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#url-query-parameters",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Pagination",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#pagination",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Custom traits and interfaces",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#custom-traits-and-interfaces",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Anonymous components",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#anonymous-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    },
+    {
+        "title": "Testing components",
+        "category": "Packages",
+        "url": "https://livewire.laravel.com/docs/volt#testing-components",
+        "framework": "livewire",
+        "parent_url": "https://livewire.laravel.com/docs/volt"
+    }
+]
