@@ -40,6 +40,17 @@
                     Discover
                 </button>
             </div>
+
+            @if ($rateLimitExceeded)
+                <div class="w-full text-center">
+                    <p class="text-[0.65rem] text-red-400">
+                        Please wait <span
+                            class="text-[{{ $selectedFramework->color() }}]">{{ $secondsUntilAvailable }}</span>
+                        seconds before
+                        discovering another one.
+                    </p>
+                </div>
+            @endif
         </div>
     </div>
 
