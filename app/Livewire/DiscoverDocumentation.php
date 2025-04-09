@@ -15,18 +15,17 @@ final class DiscoverDocumentation extends Component
 
     public ?DocumentationLink $link = null;
 
-    public array $frameworks = [];
-
     public int $streak = 0;
 
     public int $highScore = 0;
 
+    protected $listeners = [
+        'framework-switched' => 'handleFrameworkSwitch'
+    ];
+
     public function mount(): void
     {
-        $this->frameworks = Framework::cases();
-
         $this->selectedFramework = Framework::from(Session::get('selected_framework', $this->selectedFramework->value));
-        Session::put('selected_framework', $this->selectedFramework->value);
 
         $this->loadFrameworkStats();
     }
@@ -51,7 +50,7 @@ final class DiscoverDocumentation extends Component
         $this->saveFrameworkStats();
     }
 
-    public function switchFramework(string $framework): void
+    public function handleFrameworkSwitch(string $framework): void
     {
         $this->selectedFramework = Framework::from($framework);
         $this->loadFrameworkStats();
@@ -59,9 +58,7 @@ final class DiscoverDocumentation extends Component
 
     public function render()
     {
-        return view('livewire.discover-documentation', [
-            'frameworks' => Framework::cases(),
-        ]);
+        return view('livewire.discover-documentation');
     }
 
     private function loadFrameworkStats(): void
