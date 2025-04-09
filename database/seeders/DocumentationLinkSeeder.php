@@ -15,11 +15,11 @@ final class DocumentationLinkSeeder extends Seeder
         $frameworks = Framework::cases();
 
         foreach ($frameworks as $framework) {
-            if (! file_exists(database_path('seeders/data/' . $framework->value . '-docs.json'))) {
+            if (! file_exists(database_path('seeders/data/'.$framework->value.'-docs.json'))) {
                 continue;
             }
 
-            $laravelDocs = json_decode(file_get_contents(database_path('seeders/data/' . $framework->value . '-docs.json')), true);
+            $laravelDocs = json_decode(file_get_contents(database_path('seeders/data/'.$framework->value.'-docs.json')), true);
 
             foreach ($laravelDocs as $doc) {
                 DocumentationLink::create($doc);
