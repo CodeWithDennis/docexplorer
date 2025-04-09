@@ -6,12 +6,24 @@
 
 **DocExplorer** helps you discover random documentation pages from your favorite framework. Click a button, get a random page. It's a simple way to explore documentation you might not have found otherwise.
 
-### Goal
+### Project Specifications
 
-- Learn about framework documentation through random discovery
-- Study and improve your skills by working on the project
-- Share your knowledge with others
-- Help build something useful for the community
+- Laravel 12
+- Livewire 3
+- PestPHP 3
+- PHP 8.4
+
+## Goal
+
+- Make framework documentation exploration fun and engaging
+- Help developers discover new features and best practices
+- Create a community-driven learning platform
+- Support continuous learning and skill development
+- Build a welcoming community of contributors
+- Encourage knowledge sharing and collaboration
+- Foster an inclusive environment for learning and growth
+- Create opportunities for developers to improve their skills through real-world contributions
+- Build a sustainable open-source project that benefits the entire developer community
 
 ## Getting Started
 
