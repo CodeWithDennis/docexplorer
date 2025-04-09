@@ -2,12 +2,19 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
+    <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Level up your Laravel knowledge with random documentation discoveries">
+    <meta name="description"
+        content="Level up your knowledge for your favorite framework with random documentation discoveries">
+    <meta name="keywords"
+        content="documentation, framework, knowledge, learning, random, discover, explore, laravel, filamentphp, livewire">
 
-    <title>DocExplorer</title>
+    <!-- Title -->
+    <title>DocExplorer - Level up your knowledge for your favorite framework with random documentation discoveries.
+    </title>
 
+    <!-- Styles -->
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @livewireStyles
 </head>
@@ -18,6 +25,7 @@
         <livewire:discover-documentation />
     </div>
 
+    <!-- Scripts -->
     @livewireScripts
 </body>
 
