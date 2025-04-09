@@ -1,0 +1,854 @@
+[
+    {
+        "title": "Installation",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/installation",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Listing records",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/listing-records",
+        "framework": "filament"
+    },
+    {
+        "title": "Creating records",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/creating-records",
+        "framework": "filament"
+    },
+    {
+        "title": "Editing records",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/editing-records",
+        "framework": "filament"
+    },
+    {
+        "title": "Viewing records",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/viewing-records",
+        "framework": "filament"
+    },
+    {
+        "title": "Deleting records",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/deleting-records",
+        "framework": "filament"
+    },
+    {
+        "title": "Managing relationships",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/relation-managers",
+        "framework": "filament"
+    },
+    {
+        "title": "Global search",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/global-search",
+        "framework": "filament"
+    },
+    {
+        "title": "Widgets",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/widgets",
+        "framework": "filament"
+    },
+    {
+        "title": "Custom pages",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/custom-pages",
+        "framework": "filament"
+    },
+    {
+        "title": "Security",
+        "category": "Panels/Resources",
+        "url": "https://filamentphp.com/docs/3.x/panels/resources/security",
+        "framework": "filament"
+    },
+    {
+        "title": "Pages",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/pages",
+        "framework": "filament"
+    },
+    {
+        "title": "Dashboard",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/dashboard",
+        "framework": "filament"
+    },
+    {
+        "title": "Navigation",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/navigation",
+        "framework": "filament"
+    },
+    {
+        "title": "Notifications",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/notifications",
+        "framework": "filament"
+    },
+    {
+        "title": "Users",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/users",
+        "framework": "filament"
+    },
+    {
+        "title": "Configuration",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/configuration",
+        "framework": "filament"
+    },
+    {
+        "title": "Clusters",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/clusters",
+        "framework": "filament"
+    },
+    {
+        "title": "Multi-tenancy",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/tenancy",
+        "framework": "filament"
+    },
+    {
+        "title": "Themes",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/themes",
+        "framework": "filament"
+    },
+    {
+        "title": "Plugin development",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/plugins",
+        "framework": "filament"
+    },
+    {
+        "title": "Testing",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/testing",
+        "framework": "filament"
+    },
+    {
+        "title": "Upgrading from v2.x",
+        "category": "Panels",
+        "url": "https://filamentphp.com/docs/3.x/panels/upgrade-guide",
+        "framework": "filament"
+    },
+    {
+        "title": "Installation",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/installation",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Text column",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/text",
+        "framework": "filament"
+    },
+    {
+        "title": "Icon column",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/icon",
+        "framework": "filament"
+    },
+    {
+        "title": "Image column",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/image",
+        "framework": "filament"
+    },
+    {
+        "title": "Color column",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/color",
+        "framework": "filament"
+    },
+    {
+        "title": "Select column",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/select",
+        "framework": "filament"
+    },
+    {
+        "title": "Toggle column",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/toggle",
+        "framework": "filament"
+    },
+    {
+        "title": "Text input column",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/text-input",
+        "framework": "filament"
+    },
+    {
+        "title": "Checkbox column",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/checkbox",
+        "framework": "filament"
+    },
+    {
+        "title": "Custom columns",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/custom",
+        "framework": "filament"
+    },
+    {
+        "title": "Column relationships",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/relationships",
+        "framework": "filament"
+    },
+    {
+        "title": "Advanced columns",
+        "category": "Tables/Columns",
+        "url": "https://filamentphp.com/docs/3.x/tables/columns/advanced",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Tables/Filters",
+        "url": "https://filamentphp.com/docs/3.x/tables/filters/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Select filters",
+        "category": "Tables/Filters",
+        "url": "https://filamentphp.com/docs/3.x/tables/filters/select",
+        "framework": "filament"
+    },
+    {
+        "title": "Ternary filters",
+        "category": "Tables/Filters",
+        "url": "https://filamentphp.com/docs/3.x/tables/filters/ternary",
+        "framework": "filament"
+    },
+    {
+        "title": "Query builder",
+        "category": "Tables/Filters",
+        "url": "https://filamentphp.com/docs/3.x/tables/filters/query-builder",
+        "framework": "filament"
+    },
+    {
+        "title": "Custom filters",
+        "category": "Tables/Filters",
+        "url": "https://filamentphp.com/docs/3.x/tables/filters/custom",
+        "framework": "filament"
+    },
+    {
+        "title": "Filter layout",
+        "category": "Tables/Filters",
+        "url": "https://filamentphp.com/docs/3.x/tables/filters/layout",
+        "framework": "filament"
+    },
+    {
+        "title": "Actions",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/actions",
+        "framework": "filament"
+    },
+    {
+        "title": "Layout",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/layout",
+        "framework": "filament"
+    },
+    {
+        "title": "Summaries",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/summaries",
+        "framework": "filament"
+    },
+    {
+        "title": "Grouping rows",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/grouping",
+        "framework": "filament"
+    },
+    {
+        "title": "Empty state",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/empty-state",
+        "framework": "filament"
+    },
+    {
+        "title": "Advanced",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/advanced",
+        "framework": "filament"
+    },
+    {
+        "title": "Adding a table to a Livewire component",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/adding-a-table-to-a-livewire-component",
+        "framework": "filament"
+    },
+    {
+        "title": "Testing",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/testing",
+        "framework": "filament"
+    },
+    {
+        "title": "Upgrading from v2.x",
+        "category": "Tables",
+        "url": "https://filamentphp.com/docs/3.x/tables/upgrade-guide",
+        "framework": "filament"
+    },
+    {
+        "title": "Installation",
+        "category": "Forms",
+        "url": "https://filamentphp.com/docs/3.x/forms/installation",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Forms",
+        "url": "https://filamentphp.com/docs/3.x/forms/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Text input",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/text-input",
+        "framework": "filament"
+    },
+    {
+        "title": "Select",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/select",
+        "framework": "filament"
+    },
+    {
+        "title": "Checkbox",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/checkbox",
+        "framework": "filament"
+    },
+    {
+        "title": "Toggle",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/toggle",
+        "framework": "filament"
+    },
+    {
+        "title": "Checkbox list",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/checkbox-list",
+        "framework": "filament"
+    },
+    {
+        "title": "Radio",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/radio",
+        "framework": "filament"
+    },
+    {
+        "title": "Date-time picker",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/date-time-picker",
+        "framework": "filament"
+    },
+    {
+        "title": "File upload",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/file-upload",
+        "framework": "filament"
+    },
+    {
+        "title": "Rich editor",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/rich-editor",
+        "framework": "filament"
+    },
+    {
+        "title": "Markdown editor",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/markdown-editor",
+        "framework": "filament"
+    },
+    {
+        "title": "Repeater",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/repeater",
+        "framework": "filament"
+    },
+    {
+        "title": "Builder",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/builder",
+        "framework": "filament"
+    },
+    {
+        "title": "Tags input",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/tags-input",
+        "framework": "filament"
+    },
+    {
+        "title": "Textarea",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/textarea",
+        "framework": "filament"
+    },
+    {
+        "title": "Key-value",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/key-value",
+        "framework": "filament"
+    },
+    {
+        "title": "Color picker",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/color-picker",
+        "framework": "filament"
+    },
+    {
+        "title": "Toggle buttons",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/toggle-buttons",
+        "framework": "filament"
+    },
+    {
+        "title": "Hidden",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/hidden",
+        "framework": "filament"
+    },
+    {
+        "title": "Custom fields",
+        "category": "Forms/Fields",
+        "url": "https://filamentphp.com/docs/3.x/forms/fields/custom",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Grid",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/grid",
+        "framework": "filament"
+    },
+    {
+        "title": "Fieldset",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/fieldset",
+        "framework": "filament"
+    },
+    {
+        "title": "Tabs",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/tabs",
+        "framework": "filament"
+    },
+    {
+        "title": "Wizard",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/wizard",
+        "framework": "filament"
+    },
+    {
+        "title": "Section",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/section",
+        "framework": "filament"
+    },
+    {
+        "title": "Split",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/split",
+        "framework": "filament"
+    },
+    {
+        "title": "Custom layouts",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/custom",
+        "framework": "filament"
+    },
+    {
+        "title": "Placeholder",
+        "category": "Forms/Layout",
+        "url": "https://filamentphp.com/docs/3.x/forms/layout/placeholder",
+        "framework": "filament"
+    },
+    {
+        "title": "Validation",
+        "category": "Forms",
+        "url": "https://filamentphp.com/docs/3.x/forms/validation",
+        "framework": "filament"
+    },
+    {
+        "title": "Actions",
+        "category": "Forms",
+        "url": "https://filamentphp.com/docs/3.x/forms/actions",
+        "framework": "filament"
+    },
+    {
+        "title": "Advanced forms",
+        "category": "Forms",
+        "url": "https://filamentphp.com/docs/3.x/forms/advanced",
+        "framework": "filament"
+    },
+    {
+        "title": "Adding a form to a Livewire component",
+        "category": "Forms",
+        "url": "https://filamentphp.com/docs/3.x/forms/adding-a-form-to-a-livewire-component",
+        "framework": "filament"
+    },
+    {
+        "title": "Testing",
+        "category": "Forms",
+        "url": "https://filamentphp.com/docs/3.x/forms/testing",
+        "framework": "filament"
+    },
+    {
+        "title": "Upgrading from v2.x",
+        "category": "Forms",
+        "url": "https://filamentphp.com/docs/3.x/forms/upgrade-guide",
+        "framework": "filament"
+    },
+    {
+        "title": "Installation",
+        "category": "Infolists",
+        "url": "https://filamentphp.com/docs/3.x/infolists/installation",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Infolists",
+        "url": "https://filamentphp.com/docs/3.x/infolists/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Infolists/Entries",
+        "url": "https://filamentphp.com/docs/3.x/infolists/entries/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Text entry",
+        "category": "Infolists/Entries",
+        "url": "https://filamentphp.com/docs/3.x/infolists/entries/text",
+        "framework": "filament"
+    },
+    {
+        "title": "Icon entry",
+        "category": "Infolists/Entries",
+        "url": "https://filamentphp.com/docs/3.x/infolists/entries/icon",
+        "framework": "filament"
+    },
+    {
+        "title": "Image entry",
+        "category": "Infolists/Entries",
+        "url": "https://filamentphp.com/docs/3.x/infolists/entries/image",
+        "framework": "filament"
+    },
+    {
+        "title": "Color entry",
+        "category": "Infolists/Entries",
+        "url": "https://filamentphp.com/docs/3.x/infolists/entries/color",
+        "framework": "filament"
+    },
+    {
+        "title": "Key-value entry",
+        "category": "Infolists/Entries",
+        "url": "https://filamentphp.com/docs/3.x/infolists/entries/key-value",
+        "framework": "filament"
+    },
+    {
+        "title": "Repeatable entry",
+        "category": "Infolists/Entries",
+        "url": "https://filamentphp.com/docs/3.x/infolists/entries/repeatable",
+        "framework": "filament"
+    },
+    {
+        "title": "Custom entries",
+        "category": "Infolists/Entries",
+        "url": "https://filamentphp.com/docs/3.x/infolists/entries/custom",
+        "framework": "filament"
+    },
+    {
+        "title": "Getting started",
+        "category": "Infolists/Layout",
+        "url": "https://filamentphp.com/docs/3.x/infolists/layout/getting-started",
+        "framework": "filament"
+    },
+    {
+        "title": "Grid",
+        "category": "Infolists/Layout",
+        "url": "https://filamentphp.com/docs/3.x/infolists/layout/grid",
+        "framework": "filament"
+    },
+    {
+        "title": "Fieldset",
+        "category": "Infolists/Layout",
+        "url": "https://filamentphp.com/docs/3.x/infolists/layout/fieldset",
+        "framework": "filament"
+    },
+    {
+        "title": "Tabs",
+        "category": "Infolists/Layout",
+        "url": "https://filamentphp.com/docs/3.x/infolists/layout/tabs",
+        "framework": "filament"
+    },
+    {
+        "title": "Section",
+        "category": "Infolists/Layout",
+        "url": "https://filamentphp.com/docs/3.x/infolists/layout/section",
+        "framework": "filament"
+    },
+    {
+        "title": "Split",
+        "category": "Infolists/Layout",
+        "url": "https://filamentphp.com/docs/3.x/infolists/layout/split",
+        "framework": "filament"
+    },
+    {
+        "title": "Custom layouts",
+        "category": "Infolists/Layout",
+        "url": "https://filamentphp.com/docs/3.x/infolists/layout/custom",
+        "framework": "filament"
+    },
+    {
+        "title": "Actions",
+        "category": "Infolists",
+        "url": "https://filamentphp.com/docs/3.x/infolists/actions",
+        "framework": "filament"
+    },
+    {
+        "title": "Advanced infolists",
+        "category": "Infolists",
+        "url": "https://filamentphp.com/docs/3.x/infolists/advanced",
+        "framework": "filament"
+    },
+    {
+        "title": "Adding an infolist to a Livewire component",
+        "category": "Infolists",
+        "url": "https://filamentphp.com/docs/3.x/infolists/adding-an-infolist-to-a-livewire-component",
+        "framework": "filament"
+    },
+    {
+        "title": "Testing",
+        "category": "Infolists",
+        "url": "https://filamentphp.com/docs/3.x/infolists/testing",
+        "framework": "filament"
+    },
+    {
+        "title": "Installation",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/installation",
+        "framework": "filament"
+    },
+    {
+        "title": "Overview",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/overview",
+        "framework": "filament"
+    },
+    {
+        "title": "Trigger button",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/trigger-button",
+        "framework": "filament"
+    },
+    {
+        "title": "Modals",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/modals",
+        "framework": "filament"
+    },
+    {
+        "title": "Grouping actions",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/grouping-actions",
+        "framework": "filament"
+    },
+    {
+        "title": "Adding an action to a Livewire component",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/adding-an-action-to-a-livewire-component",
+        "framework": "filament"
+    },
+    {
+        "title": "Create action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/create",
+        "framework": "filament"
+    },
+    {
+        "title": "Edit action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/edit",
+        "framework": "filament"
+    },
+    {
+        "title": "View action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/view",
+        "framework": "filament"
+    },
+    {
+        "title": "Delete action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/delete",
+        "framework": "filament"
+    },
+    {
+        "title": "Replicate action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/replicate",
+        "framework": "filament"
+    },
+    {
+        "title": "Force-delete action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/force-delete",
+        "framework": "filament"
+    },
+    {
+        "title": "Restore action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/restore",
+        "framework": "filament"
+    },
+    {
+        "title": "Import action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/import",
+        "framework": "filament"
+    },
+    {
+        "title": "Export action",
+        "category": "Actions/Prebuilt Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/prebuilt-actions/export",
+        "framework": "filament"
+    },
+    {
+        "title": "Advanced actions",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/advanced",
+        "framework": "filament"
+    },
+    {
+        "title": "Testing",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/testing",
+        "framework": "filament"
+    },
+    {
+        "title": "Upgrading from v2.x",
+        "category": "Actions",
+        "url": "https://filamentphp.com/docs/3.x/actions/upgrade-guide",
+        "framework": "filament"
+    },
+    {
+        "title": "Installation",
+        "category": "Notifications",
+        "url": "https://filamentphp.com/docs/3.x/notifications/installation",
+        "framework": "filament"
+    },
+    {
+        "title": "Sending notifications",
+        "category": "Notifications",
+        "url": "https://filamentphp.com/docs/3.x/notifications/sending-notifications",
+        "framework": "filament"
+    },
+    {
+        "title": "Database notifications",
+        "category": "Notifications",
+        "url": "https://filamentphp.com/docs/3.x/notifications/database-notifications",
+        "framework": "filament"
+    },
+    {
+        "title": "Broadcast notifications",
+        "category": "Notifications",
+        "url": "https://filamentphp.com/docs/3.x/notifications/broadcast-notifications",
+        "framework": "filament"
+    },
+    {
+        "title": "Customizing notifications",
+        "category": "Notifications",
+        "url": "https://filamentphp.com/docs/3.x/notifications/customizing-notifications",
+        "framework": "filament"
+    },
+    {
+        "title": "Testing",
+        "category": "Notifications",
+        "url": "https://filamentphp.com/docs/3.x/notifications/testing",
+        "framework": "filament"
+    },
+    {
+        "title": "Upgrading from v2.x",
+        "category": "Notifications",
+        "url": "https://filamentphp.com/docs/3.x/notifications/upgrade-guide",
+        "framework": "filament"
+    },
+    {
+        "title": "Installation",
+        "category": "Widgets",
+        "url": "https://filamentphp.com/docs/3.x/widgets/installation",
+        "framework": "filament"
+    },
+    {
+        "title": "Stats overview widgets",
+        "category": "Widgets",
+        "url": "https://filamentphp.com/docs/3.x/widgets/stats-overview",
+        "framework": "filament"
+    },
+    {
+        "title": "Chart widgets",
+        "category": "Widgets",
+        "url": "https://filamentphp.com/docs/3.x/widgets/charts",
+        "framework": "filament"
+    },
+    {
+        "title": "Table widgets",
+        "category": "Widgets",
+        "url": "https://filamentphp.com/docs/3.x/widgets/tables",
+        "framework": "filament"
+    },
+    {
+        "title": "Adding a widget to a Blade view",
+        "category": "Widgets",
+        "url": "https://filamentphp.com/docs/3.x/widgets/adding-a-widget-to-a-blade-view",
+        "framework": "filament"
+    }
+]
