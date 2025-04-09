@@ -2,6 +2,10 @@
 
 ![DocExplorer Thumbnail](thumbnail.png)
 
+[![Rector](https://github.com/CodeWithDennis/docexplorer/actions/workflows/rector.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/rector.yml)
+[![PHPStan](https://github.com/CodeWithDennis/docexplorer/actions/workflows/phpstan.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/phpstan.yml)
+[![Pest](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pest.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pest.yml)
+[![Laravel Pint](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pint.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pint.yml)
 
 ## Introduction
 
