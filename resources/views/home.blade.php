@@ -27,7 +27,7 @@
 
     <!-- GitHub Link -->
     <a href="https://github.com/CodeWithDennis/docexplorer" target="_blank" rel="noopener"
-        class="fixed bottom-4 right-4 p-2 rounded-sm hover:bg-white/20 transition-all duration-300 border-2 border-white/20 hover:border-white/40 [image-rendering:pixelated]">
+        class="fixed bottom-4 right-4 p-2 hover:bg-white/20 transition-all duration-300 [image-rendering:pixelated] [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))]">
         <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
             style="image-rendering: pixelated;">
             <path fill-rule="evenodd"
