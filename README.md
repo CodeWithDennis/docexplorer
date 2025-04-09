@@ -1,21 +1,26 @@
 # DocExplorer
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
-</p>
+## Table of Contents
+- [About DocExplorer](#about-docexplorer)
+  - [Goal](#goal)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+- [Testing](#testing)
+- [Contributing](#contributing)
+  - [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## About DocExplorer
 
 DocExplorer helps you discover random documentation pages from your favorite framework. Click a button, get a random page. It's a simple way to explore documentation you might not have found otherwise.
 
-### The Vision
+### Goal
 
-DocExplorer is a community project. The goal is to create a space where developers can:
-- Learn through random documentation discovery
-- Contribute to an educational project
-- Share framework documentation
-- Build something meaningful together
-- Make documentation exploration more engaging
+- Learn about framework documentation through random discovery
+- Study and improve your skills by working on the project
+- Share your knowledge with others
+- Help build something useful for the community
 
 ## Getting Started
 
@@ -89,7 +94,3 @@ This project is open-sourced under the [MIT license](https://opensource.org/lice
 - [Livewire](https://livewire.laravel.com) - Full-stack framework for Laravel
 - [FilamentPHP](https://filamentphp.com) - Admin panel framework
 - All contributors and supporters
-
----
-
-Made with care by the PHP community
