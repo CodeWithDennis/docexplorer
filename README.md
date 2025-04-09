@@ -1,17 +1,6 @@
 # DocExplorer
 
-## Table of Contents
-- [About DocExplorer](#about-docexplorer)
-  - [Goal](#goal)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-- [Testing](#testing)
-- [Contributing](#contributing)
-  - [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
-## About DocExplorer
+## Introduction
 
 **DocExplorer** helps you discover random documentation pages from your favorite framework. Click a button, get a random page. It's a simple way to explore documentation you might not have found otherwise.
 
