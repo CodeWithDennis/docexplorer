@@ -5,19 +5,20 @@
 [![Pest](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pest.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pest.yml)
 [![Laravel Pint](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pint.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pint.yml)
 
+> [!IMPORTANT]
+> This is a collaborative project! We welcome contributions from everyone in the community. Whether you're a seasoned developer or just starting out, your input and contributions are valuable to making this project better for everyone.
+
 ![DocExplorer Thumbnail](thumbnail.png)
 
 ## Introduction
+
+The DocExplorer website is available at [https://docexplorer.dev](https://docexplorer.dev).
 
 **DocExplorer** helps you discover random documentation pages from your favorite framework. Click a button, get a random page. It's a simple way to explore documentation you might not have found otherwise.
 
 - Laravel: ~1827 documentation links
 - FilamentPHP: ~1576 documentation links
 - Livewire: ~502 documentation links
-
-### Website & Deployment
-
-The DocExplorer website is available at [https://docexplorer.dev](https://docexplorer.dev). Any changes pushed to this repository will automatically trigger a new build and deployment of the website.
 
 ### Project Specifications
 
