@@ -2,6 +2,10 @@
 
 ![DocExplorer Thumbnail](thumbnail.png)
 
+[![Rector](https://github.com/CodeWithDennis/docexplorer/actions/workflows/rector.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/rector.yml)
+[![PHPStan](https://github.com/CodeWithDennis/docexplorer/actions/workflows/phpstan.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/phpstan.yml)
+[![Pest](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pest.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pest.yml)
+[![Laravel Pint](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pint.yml/badge.svg)](https://github.com/CodeWithDennis/docexplorer/actions/workflows/pint.yml)
 
 ## Introduction
 
@@ -79,6 +83,27 @@ The project uses Pest PHP for testing. Run tests with:
 ```bash
 php artisan test
 ```
+
+## Code Quality Tools
+
+The project uses several code quality tools to maintain high standards:
+
+- [Rector](https://github.com/rectorphp/rector) - Automated code refactoring
+- [Laravel Pint](https://laravel.com/docs/pint) - PHP code style fixer
+- [PHPStan](https://phpstan.org/) - Static analysis tool
+- [PestPHP](https://pestphp.com/) - Testing framework
+
+You can run all code quality tools in sequence using the composer review command:
+
+```bash
+composer review
+```
+
+This command will:
+1. Run Rector for automated code refactoring
+2. Apply Laravel Pint code style fixes
+3. Run PHPStan for static analysis
+4. Execute all tests with PestPHP
 
 ## Contributing
 
