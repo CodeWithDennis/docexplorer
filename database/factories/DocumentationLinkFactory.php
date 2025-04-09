@@ -19,9 +19,9 @@ final class DocumentationLinkFactory extends Factory
     {
         return [
             'title' => fake()->sentence(3),
+            'category' => fake()->word(),
             'url' => fake()->url(),
             'framework' => Framework::Laravel,
-            'description' => fake()->paragraph(),
         ];
     }
 }
