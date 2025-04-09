@@ -66,7 +66,6 @@ final class DiscoverDocumentation extends Component
         $frameworkKey = $this->selectedFramework->value;
 
         $this->link = null;
-        $this->streak = Session::get("streak_{$frameworkKey}", 0);
         $this->highScore = Session::get("high_score_{$frameworkKey}", 0);
     }
 
