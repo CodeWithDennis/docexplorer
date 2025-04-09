@@ -15,6 +15,10 @@
 - FilamentPHP: ~1576 documentation links
 - Livewire: ~502 documentation links
 
+### Website & Deployment
+
+The DocExplorer website is available at [https://docexplorer.dev](https://docexplorer.dev). Any changes pushed to this repository will automatically trigger a new build and deployment of the website.
+
 ### Project Specifications
 
 - Laravel 12
