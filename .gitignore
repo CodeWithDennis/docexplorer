@@ -27,3 +27,5 @@ yarn-error.log
 *.js.map
 *.min.css
 *.min.js
+.DS_Store
+**/.DS_Store
