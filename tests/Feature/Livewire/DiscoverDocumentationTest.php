@@ -122,7 +122,6 @@ it('increases the high score only when streak exceeds it', function (Framework $
     livewire(SwitchFramework::class, ['selectedFramework' => $framework])
         ->call('switchFramework', $framework->value);
 
-    // Initial high score of 2
     livewire(DiscoverDocumentation::class)
         ->call('getRandomLink')
         ->assertSee('1')
@@ -149,3 +148,21 @@ it('increases the high score only when streak exceeds it', function (Framework $
     'FilamentPHP' => Framework::Filament,
     'Livewire' => Framework::Livewire,
 ]);
+
+it('allows requests within rate limit', function (): void {
+    $component = livewire(DiscoverDocumentation::class)
+        ->call('getRandomLink')
+        ->assertSet('rateLimitExceeded', false)
+        ->assertSet('secondsUntilAvailable', 0);
+});
+
+it('blocks requests when rate limit is exceeded', function (): void {
+    $component = livewire(DiscoverDocumentation::class);
+
+    $component->call('getRandomLink')
+        ->call('getRandomLink')
+        ->call('getRandomLink')
+        ->call('getRandomLink')
+        ->assertSet('rateLimitExceeded', true)
+        ->assertSet('secondsUntilAvailable', 5);
+});
