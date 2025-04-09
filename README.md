@@ -6,7 +6,7 @@
 
 ## 🚀 About DocExplorer
 
-Ever felt like you're stuck reading the same documentation pages? DocExplorer is a fun little tool that helps you discover random documentation pages from Laravel, FilamentPHP, and Livewire. It's like a slot machine for learning - you never know what you'll discover next! 🎰
+Bored of reading docs the usual way? 🥱 DocExplorer turns documentation discovery into a game! One click, one random page from your favorite framework. Simple, fun, and you might just stumble upon something awesome! 🎯
 
 ### For Users
 
