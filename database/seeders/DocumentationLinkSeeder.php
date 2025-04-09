@@ -9,12 +9,17 @@ use Illuminate\Database\Seeder;
 
 final class DocumentationLinkSeeder extends Seeder
 {
-    public function run(): void
+    public function laravel(): void
     {
         $laravelDocs = json_decode(file_get_contents(database_path('seeders/data/laravel-docs.json')), true);
 
         foreach ($laravelDocs as $doc) {
             DocumentationLink::create($doc);
         }
+    }
+
+    public function run(): void
+    {
+        $this->laravel();
     }
 }
