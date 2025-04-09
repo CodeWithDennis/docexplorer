@@ -10,7 +10,7 @@ use Livewire\Component;
 
 final class SwitchFramework extends Component
 {
-    public Framework $selectedFramework;
+    public Framework $selectedFramework = Framework::Laravel;
 
     public array $frameworks = [];
 
