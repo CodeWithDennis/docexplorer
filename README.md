@@ -2,9 +2,14 @@
 
 ![DocExplorer Thumbnail](thumbnail.png)
 
+
 ## Introduction
 
 **DocExplorer** helps you discover random documentation pages from your favorite framework. Click a button, get a random page. It's a simple way to explore documentation you might not have found otherwise.
+
+- Laravel: ~1827 documentation links
+- FilamentPHP: ~1576 documentation links
+- Livewire: ~502 documentation links
 
 ### Project Specifications
 
