@@ -13,7 +13,7 @@
 
 ## About DocExplorer
 
-DocExplorer helps you discover random documentation pages from your favorite framework. Click a button, get a random page. It's a simple way to explore documentation you might not have found otherwise.
+**DocExplorer** helps you discover random documentation pages from your favorite framework. Click a button, get a random page. It's a simple way to explore documentation you might not have found otherwise.
 
 ### Goal
 
@@ -27,18 +27,22 @@ DocExplorer helps you discover random documentation pages from your favorite fra
 ### Installation
 
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/yourusername/doc-explorer.git
-cd doc-explorer
+git clone https://github.com/codewithdennis/docexplorer.git
+cd docexplorer/
 ```
 
 2. Install dependencies:
+
 ```bash
 composer install
 npm install
+npm run build
 ```
 
 3. Set up environment:
+
 ```bash
 cp .env.example .env
 php artisan key:generate
@@ -46,12 +50,15 @@ php artisan key:generate
 
 4. Configure your database in `.env`
 
-5. Run migrations:
+5. Run migrations and seeder:
+
 ```bash
 php artisan migrate
+php artisan db:seed
 ```
 
 6. Start the development server:
+
 ```bash
 php artisan serve
 npm run dev
@@ -79,6 +86,7 @@ To contribute to the project:
 
 - Follow PSR-12 coding standards
 - Write tests for new features
+    - If you're unfamiliar with testing or need help, you can create a draft PR and ask for assistance from the community.
 - Update documentation as needed
 - Use meaningful commit messages
 - Keep PRs focused and manageable
