@@ -21,3 +21,9 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+/build
+/dist
+*.css.map
+*.js.map
+*.min.css
+*.min.js
