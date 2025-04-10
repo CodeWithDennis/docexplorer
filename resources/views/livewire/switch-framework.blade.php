@@ -12,7 +12,8 @@
         <div class="py-1">
             @foreach ($frameworks as $framework)
                 <button wire:click="switchFramework('{{ $framework->value }}'); open = false"
-                    class="block w-full text-left px-4 py-2 text-[0.65rem] text-gray-300 hover:bg-[{{ $framework->color() }}] hover:text-white">
+                    class="block w-full text-left px-4 py-2 text-[0.65rem] text-gray-300 hover:bg-[{{ $framework->color() }}] hover:text-white"
+                    data-pan="switch-{{ $framework->value }}-btn">
                     {{ $framework->label() }}
                 </button>
             @endforeach
