@@ -36,7 +36,8 @@
 
             <div class="flex w-full gap-2 mb-4">
                 <button wire:click="getRandomLink"
-                    class="inline-block flex-1 py-[16px] px-4 bg-gradient-to-r from-[{{ $selectedFramework->color() }}] to-[{{ $selectedFramework->color() }}] text-white font-press-start text-[0.65rem] uppercase tracking-[1px] font-bold text-center shadow-[0_4px_6px_rgba({{ str_replace('#', '', $selectedFramework->color()) }},0.2)] transition-all duration-300 ease-in-out cursor-pointer select-none [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))]">
+                    class="inline-block flex-1 py-[16px] px-4 bg-gradient-to-r from-[{{ $selectedFramework->color() }}] to-[{{ $selectedFramework->color() }}] text-white font-press-start text-[0.65rem] uppercase tracking-[1px] font-bold text-center shadow-[0_4px_6px_rgba({{ str_replace('#', '', $selectedFramework->color()) }},0.2)] transition-all duration-300 ease-in-out cursor-pointer select-none [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))]"
+                    data-pan="discover-{{ $selectedFramework->value }}-btn">
                     Discover
                 </button>
             </div>
