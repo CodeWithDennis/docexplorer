@@ -60,8 +60,8 @@
             DISCOVERED DOCUMENTATION
         </h2>
 
-        <div
-            class="transition-all duration-300 border-4 border-[{{ $selectedFramework->color() }}] bg-[#16213e] p-7 mb-9 flex flex-col items-center justify-center [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))]">
+        <div class="transition-all duration-300 border-4 border-[{{ $selectedFramework->color() }}] bg-[#16213e] p-7 mb-9 flex flex-col items-center justify-center [clip-path:polygon(0_10px,10px_0,calc(100%_-_10px)_0,100%_10px,100%_calc(100%_-_10px),calc(100%_-_10px)_100%,10px_100%,0_calc(100%_-_10px))] animate-power-up"
+            wire:key="discovery-{{ $link?->id }}">
             <div class="p-4 w-full flex flex-col items-center relative">
                 <div class="absolute top-0 right-0 flex items-center">
                     <x-heroicon-s-eye class="h-4 w-4 text-muted" />
