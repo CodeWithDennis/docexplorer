@@ -29,6 +29,7 @@ final class DiscoverDocumentation extends Component
 
     protected $listeners = [
         'framework-switched' => 'handleFrameworkSwitch',
+        'highscore-reset' => 'handleHighscoreReset',
     ];
 
     public function mount(): void
@@ -66,6 +67,13 @@ final class DiscoverDocumentation extends Component
     {
         $this->selectedFramework = Framework::from($framework);
         $this->loadFrameworkStats();
+    }
+
+    public function handleHighscoreReset(): void
+    {
+        $this->highScore = 0;
+        $this->streak = 0;
+        $this->link = null;
     }
 
     public function render()

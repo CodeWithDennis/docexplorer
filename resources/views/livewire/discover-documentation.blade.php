@@ -89,4 +89,10 @@
     <div class="absolute top-8 right-8">
         <livewire:switch-framework :selected-framework="$selectedFramework" />
     </div>
+
+    @if ($highScore > 0)
+        <div class="absolute bottom-8 left-8">
+            <livewire:reset-highscore :selected-framework="$selectedFramework" />
+        </div>
+    @endif
 </div>
