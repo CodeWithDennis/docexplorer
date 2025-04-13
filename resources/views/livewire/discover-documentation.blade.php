@@ -91,7 +91,7 @@
     </div>
 
     @if ($highScore > 0)
-        <div class="absolute bottom-8 left-8">
+        <div class="md:absolute md:bottom-8 md:left-8 flex justify-center mt-8 md:mt-0">
             <livewire:reset-highscore :selected-framework="$selectedFramework" />
         </div>
     @endif
